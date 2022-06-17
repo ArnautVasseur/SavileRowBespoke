@@ -2,7 +2,7 @@
     <div class="font-jost">
         <div class="flex w-full items-center border-b-8 border-gray-300">
         <router-link to="/menu">
-            <img src="/3502540.png" class="w-10 m-2">
+            <img src="3502540.png" class="w-10 m-2">
         </router-link>
         <h1 class="ml-7 font-semibold text-2xl">MES INFORMATIONS</h1>
         </div>
