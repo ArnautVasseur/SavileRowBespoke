@@ -4,7 +4,7 @@
         <router-link to="/menu">
             <img src="../assets/images/3502540.png" class="w-10 m-2">
         </router-link>
-        <h1 class="ml-20 font-semibold text-2xl">MON TISSU</h1>
+        <h1 class="ml-[72px] font-semibold text-2xl">MON TISSU</h1>
         </div>
         <img src="../assets/images/tissus.png" class="w-80 m-auto mt-20">
     </div>
